@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  webserver.cpp
+c:\users\matteo pisani\documents\visual studio 2017\projects\micronyte\visual studio 2017 project\micronyte_dll_test\micronyte_dll\micronyte_dll\micronyte_dll.h(37): warning C4091: 'static ': ignored on left of 'MICRONYTE::ACTION' when no variable is declared
+c:\users\matteo pisani\documents\visual studio 2017\projects\micronyte\visual studio 2017 project\micronyte_dll_test\micronyte_dll\micronyte_dll\webserver.cpp(98): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\time.h(495): note: see declaration of 'gmtime'
+c:\users\matteo pisani\documents\visual studio 2017\projects\micronyte\visual studio 2017 project\micronyte_dll_test\micronyte_dll\micronyte_dll\webserver.cpp(102): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\time.h(116): note: see declaration of 'asctime'
+  UrlHelper.cpp
+  stdHelpers.cpp
+  socket.cpp
+c:\users\matteo pisani\documents\visual studio 2017\projects\micronyte\visual studio 2017 project\micronyte_dll_test\micronyte_dll\micronyte_dll\socket.cpp(184): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(2218): note: see declaration of 'gethostbyname'
+c:\users\matteo pisani\documents\visual studio 2017\projects\micronyte\visual studio 2017 project\micronyte_dll_test\micronyte_dll\micronyte_dll\socket.cpp(185): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(181): note: see declaration of 'strerror'
+c:\users\matteo pisani\documents\visual studio 2017\projects\micronyte\visual studio 2017 project\micronyte_dll_test\micronyte_dll\micronyte_dll\socket.cpp(198): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(181): note: see declaration of 'strerror'
+  MICRONYTE_DLL.cpp
+c:\users\matteo pisani\documents\visual studio 2017\projects\micronyte\visual studio 2017 project\micronyte_dll_test\micronyte_dll\micronyte_dll\micronyte_dll.h(37): warning C4091: 'static ': ignored on left of 'MICRONYTE::ACTION' when no variable is declared
+  base64.cpp
+c:\users\matteo pisani\documents\visual studio 2017\projects\micronyte\visual studio 2017 project\micronyte_dll_test\micronyte_dll\micronyte_dll\base64.cpp(70): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+c:\users\matteo pisani\documents\visual studio 2017\projects\micronyte\visual studio 2017 project\micronyte_dll_test\micronyte_dll\micronyte_dll\base64.cpp(87): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  Generating Code...
+  dllmain.cpp
+     Creating library C:\Users\Matteo Pisani\Documents\Visual Studio 2017\Projects\MICRONYTE\Visual Studio 2017 Project\MICRONYTE_DLL_TEST\Debug\MICRONYTE_DLL.lib and object C:\Users\Matteo Pisani\Documents\Visual Studio 2017\Projects\MICRONYTE\Visual Studio 2017 Project\MICRONYTE_DLL_TEST\Debug\MICRONYTE_DLL.exp
+  MICRONYTE_DLL.vcxproj -> C:\Users\Matteo Pisani\Documents\Visual Studio 2017\Projects\MICRONYTE\Visual Studio 2017 Project\MICRONYTE_DLL_TEST\Debug\MICRONYTE_DLL.dll
+  MICRONYTE_DLL.vcxproj -> C:\Users\Matteo Pisani\Documents\Visual Studio 2017\Projects\MICRONYTE\Visual Studio 2017 Project\MICRONYTE_DLL_TEST\Debug\MICRONYTE_DLL.pdb (Partial PDB)

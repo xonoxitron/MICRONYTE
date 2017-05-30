@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  MICRONYTE_DLL_TEST.cpp
+c:\users\matteo pisani\documents\visual studio 2017\projects\micronyte\visual studio 2017 project\micronyte_dll_test\micronyte_dll\micronyte_dll\micronyte_dll.h(37): warning C4091: 'static ': ignored on left of 'MICRONYTE::ACTION' when no variable is declared
+c:\users\matteo pisani\documents\visual studio 2017\projects\micronyte\visual studio 2017 project\micronyte_dll_test\micronyte_dll_test\micronyte_dll_test.cpp(15): warning C4129: '/': unrecognized character escape sequence
+c:\users\matteo pisani\documents\visual studio 2017\projects\micronyte\visual studio 2017 project\micronyte_dll_test\micronyte_dll_test\micronyte_dll_test.cpp(16): warning C4129: '/': unrecognized character escape sequence
+c:\users\matteo pisani\documents\visual studio 2017\projects\micronyte\visual studio 2017 project\micronyte_dll_test\micronyte_dll_test\micronyte_dll_test.cpp(18): warning C4129: '/': unrecognized character escape sequence
+  MICRONYTE_DLL_TEST.vcxproj -> C:\Users\Matteo Pisani\Documents\Visual Studio 2017\Projects\MICRONYTE\Visual Studio 2017 Project\MICRONYTE_DLL_TEST\Debug\MICRONYTE_DLL_TEST.exe
+  MICRONYTE_DLL_TEST.vcxproj -> C:\Users\Matteo Pisani\Documents\Visual Studio 2017\Projects\MICRONYTE\Visual Studio 2017 Project\MICRONYTE_DLL_TEST\Debug\MICRONYTE_DLL_TEST.pdb (Partial PDB)
