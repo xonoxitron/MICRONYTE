@@ -2,11 +2,11 @@
 
 ![](https://github.com/xonoxitron/MICRONYTE/blob/master/Screenshots/MICRONYTE.PNG?raw=true)
 
-![](https://github.com/xonoxitron/MICRONYTE/blob/master/Screenshots/MICRONYTE TEST.PNG?raw=true)
+![](https://github.com/xonoxitron/MICRONYTE/blob/master/Screenshots/MICRONYTE%20TEST.PNG?raw=true)
 
  
 
-CAPABILITIES
+## CAPABILITIES
 ------------
 
 -   Threaded
@@ -17,7 +17,7 @@ CAPABILITIES
 
  
 
-USAGE
+## USAGE
 -----
 
 Inside your .cpp source, include `MICRONYTE_DLL.h` and add the snippet above:
@@ -49,5 +49,3 @@ std::thread t0(MICRONYTE::ACTION::StartWebServer);
 t0.join();
 
  ```
-
- 
